@@ -6,7 +6,7 @@ const body = document.querySelector("body");
 
 // Functions
 function invalidEmailUI(labelError, emailInput) {
-  labelError.textContent = "Please enter a valid email";
+  // labelError.textContent = "";
   labelError.classList.add("shown");
   emailInput.classList.add("error");
 }
@@ -39,7 +39,7 @@ function createView() {
 
       state = "success";
       email = emailInput.value;
-      emailInput.value = "";
+      // emailInput.value = "";
       createView();
     });
   }

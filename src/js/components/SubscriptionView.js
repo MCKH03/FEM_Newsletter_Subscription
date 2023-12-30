@@ -47,7 +47,7 @@ export default function SubscriptionView() {
       <div class="input-box">
         <div class="label-box">
           <span class="label-input">Email address</span>
-          <span class="label-error"></span>
+          <span class="label-error">Please enter a valid email</span>
         </div>
         <input type="text" class="input" placeholder="email@company.com"/>
       </div>
