@@ -33,10 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+- Solution URL: [Link](https://www.frontendmentor.io/solutions/responsive-subscription-newsletter-with-html-css-javascript-O8y8G6vAj_)
+- Live Site URL: [Link](https://mckh03.github.io/FEM_Newsletter_Subscription/)
 
 ### Built with
 
